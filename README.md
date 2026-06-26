@@ -41,7 +41,8 @@ npm run preview
 
 ## Live Website
 
-Coming Soon
+https://leo-club-hopeville-website.vercel.app/
+
 
 ## Developed By
 
